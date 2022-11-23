@@ -1,0 +1,49 @@
+1.1)
+Код:
+a1 = input("a1 = ");
+a2 = input("a2 = ");
+a3 = input("a3 = ");
+a4 = input("a4 =
+answer = a1 * a4 - a3 * a2
+
+1.2)
+Код:
+a1 = input("a1 = ");
+a2 = input("a2 = ");
+a3 = input("a3 = ");
+a4 = input("a4 = ");
+a5 = input("a5 = ");
+а6 = input("a6 = ");
+a7 = input("a7 = ");
+a8 = input("a8 = ");
+a9 = input("a9 = ");
+
+answer = a1 * a5 * a9 + a2 * a6 a4 - a2 * a4 * a5 - a3 * a7 * a9
+
+2.1)
+Код:
+a1 = input("a1 = ");
+a2 = input("a2 = ");
+a3 = input("a3 = ");
+a4 = input("a4 = ");
+A = [a1 a2; a3 a4];
+b1 = input("b1 = ");
+b2 = input("b2 = ");
+b3 = input("b3 = ");
+b4 = input("b4 = ");
+
+B = [b1 b2 ;b3 b4];
+C = [0 1 3; -3 -2 3];
+F = [0 0;0 3; -2 4];
+G = [3 -1 2; -2 5 -5];
+H = [1 0 1; 2 5 -4; 2 -4 1];
+
+answer = -3 * A
+answer2 = A - B
+answer3 = -3 * A + 3 * B
+answer4 = F * G
+answer5 = G * F
+answer6 = A * B
+answer7 = B * A
+answer8 = F * C
+answer9 = G * H
